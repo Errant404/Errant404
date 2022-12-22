@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Errant404/Errant404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a secret project🤫
+- 🌱 I’m currently learning Calculus and Data Structure
+- 👯 I’m looking to collaborate on CNN
+- 🤔 I’m looking for help with Deep-Learning
+- 💬 Ask me about how to be a waste
+- 📫 How to reach me: I will always be there for you🥰
+- 😄 Pronouns: Careless bastard
+- ⚡ Fun fact: I will love Fubuki forever!🌽
 
-Here are some ideas to get you started:
+I am a noob for code. So please help me!😢
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->I am a noob for code. So please help me!😢
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=errant404)](https://github.com/anuraghazra/github-readme-stats)
