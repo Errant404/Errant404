@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a secret project 🤫
-- 🌱 I’m currently learning Calculus and Data Structure
-- 👯 I’m looking to collaborate on CNN
-- 🤔 I’m looking for help with Deep-Learning
+- 🌱 I’m currently learning C艹 and Data Structure
+- 👯 I’m looking to collaborate on Android Reverse
+- 🤔 I’m looking for help with Algorithm
 - 💬 Ask me about how to be a waste
 - 📫 How to reach me:  <a href="erigidissimus@gmail.com">erigidissimus@gmail.com</a>
 - ⚡ Fun fact: I am a noob for code. So please help me! 😢
