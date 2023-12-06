@@ -9,3 +9,5 @@
 - ⚡ Fun fact: I am a noob for code. So please help me! 😢
 
 [![Errant404's GitHub stats](https://github-readme-stats.vercel.app/api?username=errant404)](https://github.com/anuraghazra/github-readme-stats)
+
+![img](https://moe-counter.glitch.me/get/@:Errant404)
