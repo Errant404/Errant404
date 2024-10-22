@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a secret project 🤫
-- 🌱 I’m currently learning C艹 and Data Structure
-- 👯 I’m looking to collaborate on Android Reverse
-- 🤔 I’m looking for help with Algorithm
-- 💬 Ask me about how to be a waste
-- 📫 How to reach me:  <a href="erigidissimus@gmail.com">erigidissimus@gmail.com</a>
-- ⚡ Fun fact: I am a noob for code. So please help me! 😢
+![Errant404's GitHub stats](https://github-readme-stats.vercel.app/api?username=errant404&theme=transparent&show_icons=true)
 
-[![Errant404's GitHub stats](https://github-readme-stats.vercel.app/api?username=errant404)](https://github.com/anuraghazra/github-readme-stats)
+![](https://count.getloli.com/@:Errant404?name=%3AErrant404&theme=rule34&padding=7&offset=0&scale=1.5&pixelated=1&darkmode=auto)
 
-![img](https://moe-counter.glitch.me/get/@:Errant404)
