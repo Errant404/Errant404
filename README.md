@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![](https://github-readme-stats-errant-projects.vercel.app/api?username=errant404&theme=transparent&show_icons=true)
+![](https://github-readme-stats-lilac-one-19.vercel.app/api?username=errant404&theme=transparent&show_icons=true)
 
 ![](https://count.getloli.com/@:Errant404?name=%3AErrant404&theme=rule34&padding=7&offset=0&scale=1.5&pixelated=1&darkmode=auto)
